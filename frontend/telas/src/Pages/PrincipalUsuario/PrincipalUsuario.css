@@ -1,0 +1,15 @@
+.foto-principal{
+    height: 50vh;
+    width: auto;
+    margin: 0 auto;
+}
+
+.foto-whats{
+    height: 5vh;
+    width: auto;
+    margin: 0 auto;
+}
+.whats{
+    display: flex;
+    padding: 3vh;
+}
